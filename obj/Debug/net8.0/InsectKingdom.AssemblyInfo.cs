@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsectKingdom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bec1451bb59d665e69b5a5c218a6fabbdc2fe4aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsectKingdom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsectKingdom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
